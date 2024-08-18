@@ -1,125 +1,405 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
-MSG: Failed to load data from api
-retrying in 3 seconds
-Error: TooManyRequests
-[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949158701 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1724011084917 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949173800 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011087981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723949176871 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011091046 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949191967 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011094103 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949207062 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011097167 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723949210131 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011100224 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949225240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011103302 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949240339 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011106355 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723949243404 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011109409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949258497 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011112466 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949273593 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011115522 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723949276649 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011118579 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949291751 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011121635 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723949294818 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011124691 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949309906 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011127745 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723949312960 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011130801 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.19): 1723949328062 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724011133859 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1724011136918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011139977 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011143036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011146091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011149154 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011152225 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011155281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011158337 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011161397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011164454 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011167525 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011170583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011173636 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011176697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011179757 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011182811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011185868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011188923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011191990 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011195048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011198103 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011201158 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011204216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011207274 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011210335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011213388 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011216444 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011219498 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011222560 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011225618 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011228686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011231744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011234806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011237856 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011240918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011243975 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011247033 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011250122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011253201 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011256264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011259325 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011262378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011265433 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011268495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011271560 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011274616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011277743 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011280798 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011283852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011286916 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011289971 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011293027 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011296081 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011299140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011302216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011305274 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011308327 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011311380 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011314433 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011317492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011320546 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011323601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011326664 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1724011329729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+contract-exists.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
